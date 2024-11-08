@@ -1,0 +1,140 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                    << CHANGELOG >>                                    #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+____________________________________________________________________________________________
+[RELEASE]    [EDITOR MoonyDragon]    [VERSION 1.0.0]    [DATE 2020.02.16]    [WESNOTH 1.14+]
+
+    (#) INITIAL RELEASE
+
+
+____________________________________________________________________________________________
+[PATCH]      [EDITOR MoonyDragon]    [VERSION 1.0.1]    [DATE 2020.02.17]    [WESNOTH 1.14+]
+
+    (!) fixed server icon not being shown by changing it to a DATA URI
+
+
+____________________________________________________________________________________________
+[PATCH]      [EDITOR MoonyDragon]    [VERSION 1.0.2]    [DATE 2020.02.19]    [WESNOTH 1.14+]
+
+    (*) lowered crab resistances, damage and defense
+    (*) lowered goblin gold and village resistance in 03 and 04
+
+    (-) removed the MOVETO_SPAWN_UNITS macro
+    (-) removed caged villagers in 03
+    (-) removed ARRIVING_UNIT and ARRIVING_TRANSPORT_UNIT macros
+
+    (+) lizards are now a playable side in 04 + 09 + 11
+
+    (=) reworked the CAPTURE_SPAWN_UNITS macro
+
+____________________________________________________________________________________________
+[PATCH]      [EDITOR MoonyDragon]    [VERSION 1.0.3]    [DATE 2020.02.21]    [WESNOTH 1.14+]
+
+    (!) fixed a bug concerning goblin village resistance
+
+
+____________________________________________________________________________________________
+[PATCH]      [EDITOR MoonyDragon]    [VERSION 1.0.4]    [DATE 2020.02.22]    [WESNOTH 1.14+]
+
+    (!) added duneelusivefoot movetype for versions below 1.15.0
+
+    (-) removed gold bonus in 01 + 02 + 07 + 12
+
+    (*) changed the ending of 01 and added more player-controlled units to give more agency to the player
+
+
+____________________________________________________________________________________________
+[PATCH]      [EDITOR MoonyDragon]    [VERSION 1.0.5]    [DATE 2020.03.01]    [WESNOTH 1.14+]
+
+    (-) removed Ancient Skeletal Dragon, using the core Skeletal Dragon instead
+    (-) removed pickuppable items and all hints of their existence
+
+    (*) removed skirmisher from Bosavi, added berserk weapon special instead
+    (*) rebalanced a large part of the goblin units
+    (*) homogenized xp requirements for a large part of the unitbase
+    (*) buffed Dune Swordsman line melee damage from 13-2 / 13-3 to 15-2 / 15-3
+    (*) raszul can now recruit
+
+    (+) added some special abilities for the main characters
+    (+) added note about toggling off rain graphics
+    (+) leaders can now board ships
+
+
+____________________________________________________________________________________________
+[UPDATE]     [EDITOR MoonyDragon]    [VERSION 1.1.0]    [DATE 2020.03.17]    [WESNOTH 1.14+]
+
+    (*) removed marksman weapon special from centipedes
+    (*) lowered centipede damage
+    (*) lowered centipede/crab/boar/lunar bug resistances
+    (*) lowered lunar bug forest defence
+    (+) added a ghost-like defense animation to lunar bugs
+    (*) lowered giant ant damage and hp
+    (+) added merman corsair and merman pirate for possible future use
+
+    (*) removed unnecessary reef hexes in 01 and 03
+    (+) added a navigable river to 05
+    (*) reworked 06 to have waterways instead of chasms
+
+    (!) fixed a 05 bug spawning too many woses
+    (!) fixed tromdombroms pathfinding in 05
+    (*) lowered the difficulty of 03 + 04 + 05 + 06 + 08 + 10 + 11
+    (!) added balance warning after scenario 06
+    (+) the player now controls side 2 in 08
+    (-) monsters no longer spawn every turn in 05
+    (+) anthills now give income in 06 and 08
+    (*) revised broken-ceilings-dialogue of 06 to include it into the start event
+
+
+____________________________________________________________________________________________
+[UPDATE]     [EDITOR MoonyDragon]    [VERSION 1.1.1]    [DATE 2020.04.22]    [WESNOTH 1.14+]
+
+    (*) buffed liminal unit damage by 25% for versions below 1.15
+    (-) removed merfolk corsair, merfolk pirate and dwarvish mariner
+    (-) removed undead pirates
+    (-) removed crabs, goblin prime, goblin warbanner and saurian prophet
+    (-) removed rainforestambience.ogg, ballista.ogg, explosion.ogg and wind.ogg
+    (-) removed jungle and treehouse terrain
+    (-) removed saurian, paleo and drake flags
+    (-) removed flagship
+    (-) removed cave.jpg, volcano.jpg, desert.png and port.png
+    (-) removed healing crystals
+    (-) removed giant and and bosavi
+    (-) removed elvish spirits
+    (-) removed goblin archer line and goblin axeman line
+    (-) removed steadfast from the tusker line
+    (-) removed totem scenery
+	
+____________________________________________________________________________________________
+[UPDATE]     [EDITOR Refumee]    [VERSION 1.1.3]    [DATE 2024.11.07]    [WESNOTH 1.18+]
+
+    (-) removed old dunefolk units and sprites
+	(+) added new dunefolk units and sprites to the campaign (core)
+	(-) removed peasant, ruffian and woodsman units from the campaign
+	(+) added new lvl 0 dunefolk units to the campaign
+	(+) added dunefolk advancement Dune Paragon (benefits Buthari)
+	(+) added effect on destroyed vessels with passengers (8 fire damage and slowed)
+    (-) removed old descriptions
+	(*) reworked main.cfg so that the campaign can start again
+    (+) added new portraits for ships - made by LordBob
+    (*) reworked main hero sprite
+	(*) replaced naga guardian with naga guard (core)
+	Note: I do not know what happened in 1.1.2, so changelog is missing.
+	
+____________________________________________________________________________________________
+[TODO for 1.2.0]
+
+    (!) fix the storyline and balance the scenarios from 06 onwards
+    (?) add a naval scenario before 10 (ships vs undead blockade)
+    (?) adjust bigmap track for the naval scenario
+
+    # 08 - you play as the monster side and as dwarves/humans
+    # 09 - you play as the dwarf/human side and as the naga
+    # 10 - you play as the humans(city and expedition) and the naga
+
+____________________________________________________________________________________________
+[TODO for 1.3.0]
+
+    (+) add story text and images
+    (+) add artifacts and non-linear story choices
+    (!) fix messages when the unit is boarded
