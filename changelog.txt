@@ -114,6 +114,7 @@ ________________________________________________________________________________
 	(+) added new lvl 0 dunefolk units to the campaign
 	(+) added dunefolk advancement Dune Paragon (benefits Buthari)
 	(+) added effect on destroyed vessels with passengers (8 fire damage and slowed)
+	(+) added effect on leaving a vessel to set attack and movement to 0
     (-) removed old descriptions
 	(*) reworked main.cfg so that the campaign can start again
     (+) added new portraits for ships - made by LordBob
