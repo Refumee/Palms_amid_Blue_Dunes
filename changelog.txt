@@ -106,7 +106,7 @@ ________________________________________________________________________________
     (-) removed totem scenery
 	
 ____________________________________________________________________________________________
-[UPDATE]     [EDITOR Refumee]    [VERSION 1.1.3]    [DATE 2024.11.07]    [WESNOTH 1.18+]
+[UPDATE]     [EDITOR Refumee]    [VERSION 1.1.3]    [DATE 2024.11.11]    [WESNOTH 1.18+]
 
     (-) removed old dunefolk units and sprites
 	(+) added new dunefolk units and sprites to the campaign (core)
@@ -119,7 +119,9 @@ ________________________________________________________________________________
 	(*) reworked main.cfg so that the campaign can start again
     (+) added new portraits for ships - made by LordBob
     (*) reworked main hero sprite
+	(*) goblin shaman and voodoo attack animation now showing
 	(*) replaced naga guardian with naga guard (core)
+	(*) Tromdombrom now moves to the target location withhout hunting goblins
 	Note: I do not know what happened in 1.1.2, so changelog is missing.
 	
 ____________________________________________________________________________________________
