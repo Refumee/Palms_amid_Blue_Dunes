@@ -123,6 +123,11 @@ ________________________________________________________________________________
 	(*) goblin shaman and voodoo attack animation now showing
 	(*) replaced naga guardian with naga guard (core)
 	(*) Tromdombrom now moves to the target location withhout hunting goblins
+	(*) Lifting the Fog in S08 to see the full ambush
+	(*) Changed the CAPTURE_SPAWN_UNITS event, reducing the amount of assassins and rise the amount of Goblin Spearman
+	(*) Fixed eyestalks defense animation
+	(*) Reduced the max amount of eyestalks in S08
+	(*) S09 had a lot of poison units (why? player has not option to cure...) removed. Also exchanged the plants with Giant Mudcrawler, it fits the narrative more.
 	Note: I do not know what happened in 1.1.2, so changelog is missing.
 	
 ____________________________________________________________________________________________
