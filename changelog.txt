@@ -109,37 +109,50 @@ ________________________________________________________________________________
 [UPDATE]     [EDITOR Refumee]    [VERSION 1.1.3]    [DATE 2024.11.15]    [WESNOTH 1.18+]
 
     (-) removed old dunefolk units and sprites
-	(+) added new dunefolk units and sprites to the campaign (core)
+	(-) removed old descriptions
 	(-) removed peasant, ruffian and woodsman units from the campaign
+	(+) added new portraits for ships - made by LordBob
+	(+) added new desertstorm effect - made by Durzi
+	(+) added new dunefolk units and sprites to the campaign (core)
+	(+) added Naga Dirkfang to the naga recruit list, cause they are southern naga lore wise
+	(+) S04 Naga going back to their camp after their introduction
+	(+) adding a lich general to the last scenario
 	(+) added new lvl 0 dunefolk units to the campaign
 	(+) added dunefolk advancement Dune Paragon (benefits Buthari)
 	(+) added effect on destroyed vessels with passengers (8 fire damage and slowed)
 	(+) added effect on leaving a vessel to set attack and movement to 0
 	(+) adding in tropical woses (base sprite lvl 0,1 by Ghype, animation and lvl 2,3 by Refumee)
-    (-) removed old descriptions
 	(*) reworked main.cfg so that the campaign can start again
-    (+) added new portraits for ships - made by LordBob
     (*) reworked main hero sprite
 	(*) goblin shaman and voodoo attack animation now showing
 	(*) replaced naga guardian with naga guard (core)
 	(*) Tromdombrom now moves to the target location withhout hunting goblins
+	(*) S10/S11 changed the terrain on the islands to beach sand
 	(*) Lifting the Fog in S08 to see the full ambush
 	(*) Changed the CAPTURE_SPAWN_UNITS event, reducing the amount of assassins and rise the amount of Goblin Spearman
 	(*) Fixed eyestalks defense animation
 	(*) Reduced the max amount of eyestalks in S08
 	(*) S09 had a lot of poison units (why? player has not option to cure...) removed. Also exchanged the plants with Giant Mudcrawler, it fits the narrative more.
+	(*) reworked S09, giving the player more mobility, as well as the enemy
+	(*) reworked S11, orcs start with all villages, but getting less income overall
+	(*) goblin healing animation fixed
+	(1.1.3a)(+) added a not about deactivating the desert storm animations
+	(1.1.3b)(*) fixed campaign description
+	(1.1.3b)(-) removing the goblin warbanner from the files
+	(1.1.3b)(+) added in new portrait derelict hulk from Doofus
 	Note: I do not know what happened in 1.1.2, so changelog is missing.
+	
+	(!) fixed the balance the scenarios from 06 onwards
+	# 08 - you play as the monster side and as dwarves/humans
+    # 09 - you play as the dwarf/human side and as the naga/saurian
+    # 10 - you play as the humans(city and expedition) and the naga/saurian
 	
 ____________________________________________________________________________________________
 [TODO for 1.2.0]
 
-    (!) fix the storyline and balance the scenarios from 06 onwards
+    (!) fix the storyline the scenarios from 06 onwards
     (?) add a naval scenario before 10 (ships vs undead blockade)
     (?) adjust bigmap track for the naval scenario
-
-    # 08 - you play as the monster side and as dwarves/humans
-    # 09 - you play as the dwarf/human side and as the naga
-    # 10 - you play as the humans(city and expedition) and the naga
 
 ____________________________________________________________________________________________
 [TODO for 1.3.0]
