@@ -140,6 +140,8 @@ ________________________________________________________________________________
 	(1.1.3b)(*) fixed campaign description
 	(1.1.3b)(-) removing the goblin warbanner from the files
 	(1.1.3b)(+) added in new portrait derelict hulk from Doofus
+	(1.1.3c)(*) Bugfixing the desert storm event and Bigmap.
+	(1.1.3c)(+) Adding 9 achievements.
 	Note: I do not know what happened in 1.1.2, so changelog is missing.
 	
 	(!) fixed the balance the scenarios from 06 onwards
