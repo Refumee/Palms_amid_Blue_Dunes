@@ -142,6 +142,7 @@ ________________________________________________________________________________
 	(1.1.3b)(+) added in new portrait derelict hulk from Doofus
 	(1.1.3c)(*) Bugfixing the desert storm event and Bigmap.
 	(1.1.3c)(+) Adding 9 achievements.
+	(1.1.3d)(*) Small Bugfix Militia was able to advance to lvl 2 swordman, is now lvl 1 soldier.
 	Note: I do not know what happened in 1.1.2, so changelog is missing.
 	
 	(!) fixed the balance the scenarios from 06 onwards
