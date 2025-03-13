@@ -156,11 +156,8 @@ ________________________________________________________________________________
     (+) added new portraits for named Dunefolk units
     (+) added back UMC Goblins and Totems on the first maps
     (+) added Riverlizards and Riverlizard Rider
+    (+) added a naval scenario 9a (ships vs undead blockade)
 	
-    (!) fix the storyline the scenarios from 06 onwards
-    (?) add a naval scenario before 10 (ships vs undead blockade)
-    (?) adjust bigmap track for the naval scenario
-
 ____________________________________________________________________________________________
 [TODO for 1.3.0]
 
