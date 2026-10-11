@@ -1,0 +1,5 @@
+--- transporter-bug
+
+No upkeep for units that are boarded.
+
+In general: please make sure that all units that have dialogue are not currently being transported, before you fire events (or maybe find a workaround?). Otherwise dialogue tends to be missing.
